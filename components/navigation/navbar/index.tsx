@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="flex-between gap-5">
         <Theme />
       </div>
-    </nav>
+    </nav>s
   );
 };
 
